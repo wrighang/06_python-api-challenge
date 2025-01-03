@@ -1,8 +1,8 @@
 # 06_python-api-challenge
 
-[Part 1: WeatherPy](https://github.com/wrighang/06_python-api-challenge/blob/main/WeatherPy/WeatherPy.ipynb)
+[Part 1: WeatherPy.ipynb](https://github.com/wrighang/06_python-api-challenge/blob/main/WeatherPy/WeatherPy.ipynb)
 
-[Part 2: VacationPy](https://github.com/wrighang/06_python-api-challenge/blob/main/WeatherPy/VacationPy.ipynb)
+[Part 2: VacationPy.ipynb](https://github.com/wrighang/06_python-api-challenge/blob/main/WeatherPy/VacationPy.ipynb)
 
 ## Background
 Data's true power is its ability to definitively answer questions. So, let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What is the weather like as we approach the equator?"
