@@ -1,5 +1,6 @@
 # 06_python-api-challenge
 
+# Deliverable(s)
 [Part 1: WeatherPy.ipynb](https://github.com/wrighang/06_python-api-challenge/blob/main/WeatherPy/WeatherPy.ipynb)
 
 [Part 2: VacationPy.ipynb](https://github.com/wrighang/06_python-api-challenge/blob/main/WeatherPy/VacationPy.ipynb)
@@ -67,11 +68,9 @@ Now, we know what you may be thinking: “That’s obvious. It gets hotter.” B
   - Add the hotel name and the country as additional information in the hover message for each city in the map.
 
 
------------------------------------------------------------------
+==========================================================================================
+## CODING_PROCESS
 
-##CODING_PROCESS
-
-Overall Approach
 * Referenced activity assignments throughout the challenge.
 
 WeatherPy
