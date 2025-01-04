@@ -68,7 +68,7 @@ Now, we know what you may be thinking: “That’s obvious. It gets hotter.” B
   - Add the hotel name and the country as additional information in the hover message for each city in the map.
 
 
-==========================================================================================
+====================================================================
 ## CODING_PROCESS
 
 * Referenced activity assignments throughout the challenge.
